@@ -24,6 +24,4 @@
 * 전국 날씨 예보
 
 ## 학생~~개발자~~ 정보
-
-* 텔레그램 : [@SsangWoo](https://t.me/SsangWoo)
 * 이메일 : gospel306@gmail.com
