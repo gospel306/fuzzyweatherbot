@@ -26,4 +26,4 @@
 ## 학생~~개발자~~ 정보
 
 * 텔레그램 : [@SsangWoo](https://t.me/SsangWoo)
-* 이메일 : tkddn204@gmail.com
+* 이메일 : gospel306@gmail.com
